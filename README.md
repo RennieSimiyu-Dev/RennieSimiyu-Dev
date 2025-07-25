@@ -3,14 +3,12 @@
 🎓 Cybersecurity Student | 🎨 Creative Designer | 🧠 Lifelong Learner  
 💻 Linux Mint Lover | ☁️ Exploring Cloud & Automation | 🌍 From Kenya
 
----
 
 ## 🚀 About Me
 I'm a curious soul who ditched nursing to chase **cybersecurity**, tech, and creativity.  
 By day, I secure systems... by night, I design posters, content calendars, and explore new ideas.  
 I love tools that help me **build, protect, and beautify** the digital world. 😊
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -20,7 +18,6 @@ I love tools that help me **build, protect, and beautify** the digital world. �
 - **Platforms**: Linux Mint, Git, GitHub, VS Code, OBS Studio
 - **Workflow**: Planning with Notion, Automating with Make.com & Zapier
 
----
 
 ## 📁 Projects Coming Soon
 
@@ -29,7 +26,6 @@ I love tools that help me **build, protect, and beautify** the digital world. �
 - 🚀 AI-powered social media marketing app (for my agency)
 - 📚 Cybersecurity notes & cheat sheets (for beginners!)
 
----
 
 ## 🌱 Currently Learning
 
@@ -38,17 +34,11 @@ I love tools that help me **build, protect, and beautify** the digital world. �
 - Git & GitHub workflows
 - Project documentation & team collab
 
----
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com) *(update link)*
-- 📨 Email: rennie@student.email *(or your preferred email)*
-- 🧠 Always down for a tech chat, collab, or creative build!
-
----
 
 > _“In a world of systems, be the one who secures them... and makes them look good doing it.”_ ✨
 
-## Hi there 👋
+
 
