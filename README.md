@@ -1,32 +1,66 @@
-# Hey there, I'm Rennie 
+# Hey, I'm Rennie 
 
-🎓 Cybersecurity | 🎨 Creative Designer | 🧠 Lifelong Learner  
-💻 Linux Mint Lover | ☁️ Exploring Cloud & Automation 
-
+Security focused Developer | Digital Forensics | AI Explorer
 
 ## About Me
-I'm a curious soul who ditched nursing to chase **cybersecurity**, tech and creativity.  
-By day, I secure systems... by night, I design and explore new ideas.  
-I love tools that help me **build, protect, and beautify** the digital world. 😊
 
+I'm a software developer with a growing focus on cybersecurity, digital forensics and intelligent technology solutions.My journey into technology started with curiosity about how systems, applications and networks work and how they can be built, analyzed and protected.
 
-## 🛠️ Tech Stack & Tools
+I enjoy developing solutions, exploring security concepts, investigating digital evidence and improving my technical skills through hands-on projects.
+I’m also exploring how AI can be applied to software development, automation and cybersecurity workflows.
 
-- **Languages**: HTML, CSS, Bash (learning Python)
-- **Cyber Tools**: Wireshark, Nmap, Aircrack-ng, Metasploit, John the Ripper
-- **Design**: GIMP, Canva, Photoshop (in progress)
-- **Platforms**: Git, GitHub, VS Code, OBS Studio
-- **Workflow**: Planning with Notion, Automating with Make.com & Zapier
+## Skills & Tools
 
+### Development
+- HTML
+- CSS
+- Bash scripting
+- Python
+- Git & GitHub
 
-## 🌱 Currently Learning
+### Cybersecurity & Digital Forensics
+- Autopsy
+- Volatility
+- FTK
+- Wireshark
+- Nmap
 
-- Advanced Linux commands & scripting
-- Ethical hacking (Kali tools on Mint)
-- Git & GitHub workflows
-- Project documentation & team collab
+### AI & Automation
+- AI-assisted development workflows
+- Prompt engineering
+- Automation concepts
+- Exploring AI applications in security and development
 
+### Systems & Platforms
+- Linux
+- VS Code
+- Cloud fundamentals
+- Automation workflows
 
+## Areas of Interest
+
+- Secure software development
+- Digital forensics and investigation
+- Security automation
+- AI applications in cybersecurity
+- Intelligent tools and workflows
+- Cloud and modern infrastructure
+
+## Currently Exploring
+
+- Python for automation and security tools
+- Secure application development practices
+- AI-assisted development
+- AI applications in cybersecurity
+- Cloud security concepts
+
+## Beyond Technology
+
+Outside of tech, I enjoy creative design and visual problem-solving. I see creativity as another way of communicating ideas and making technology easier to understand.
+
+---
+
+*"Building, analyzing, and securing technology with curiosity and purpose."*
 
 
 
